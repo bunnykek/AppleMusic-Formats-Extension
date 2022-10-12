@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "AppleMusic Formats",
+    "description": "An extension for displaying formats of an AppleMusic album.",
+    "version": "0.0.1",
+    "icons": {
+        "16": "logo/16.png",
+        "48": "logo/48.png",
+        "128": "logo/128.png"
+    },
+    "host_permissions": [
+        "https://music.apple.com/*/album/*"
+    ],
+    "content_scripts": [
+        {
+            "js": [
+                "content.js"
+            ],
+            "matches": [
+                "https://music.apple.com/*/album/*"
+            ]
+        }
+    ]
+}
