@@ -1,8 +1,10 @@
 # AppleMusic-Formats-Extension
 Chromium extension for displaying all the available formats of an AppleMusic album.
 
-### Before Vs After
-<img src="https://user-images.githubusercontent.com/67633271/195285813-03b0d982-7b8a-4752-bacb-0222e519ec9b.png" width="470">    <img src="https://user-images.githubusercontent.com/67633271/195286032-e4022b69-64c5-4dbe-935c-87f27c602347.png" width="500">      
+### Screenshots
+![image](https://github.com/bunnykek/AppleMusic-Formats-Extension/assets/67633271/c4b62174-d010-4456-a251-dd1650abf73f)
+![Screenshot 2024-01-05 232626](https://github.com/bunnykek/AppleMusic-Formats-Extension/assets/67633271/25e62cd6-22a3-4768-851a-a32a2bb8014b)
+
 
 ## How to Install?
 ### From Microsoft Edge add-ons:
