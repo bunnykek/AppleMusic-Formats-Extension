@@ -41,7 +41,7 @@ function insert_html(xpath) {
     let str = '<br><p id="custom_formats">'
     audioTraits.forEach(e => {
         if (e != 'spatial' && e != 'lossy-stereo') {
-            str += `<img height = 25 src = "${logo[e]}">                             ` 
+            str += `<img style="-webkit-filter: invert(.5); filter: invert(.5); padding-right: 20px;" height = 30 src = "${logo[e]}">                             ` 
         }
     });
     //str += audioTraits.join(" | ");
