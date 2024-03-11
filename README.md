@@ -2,7 +2,7 @@
 Chromium extension for displaying all the available formats of an AppleMusic album.
 
 ### Screenshots
-![image](https://github.com/bunnykek/AppleMusic-Formats-Extension/assets/67633271/c4b62174-d010-4456-a251-dd1650abf73f)
+![Screenshot 2024-03-09 120850](https://github.com/bunnykek/AppleMusic-Formats-Extension/assets/67633271/32c02bb4-62cc-49bb-a6e3-f5f7ca85b901)
 ![Screenshot 2024-01-05 232626](https://github.com/bunnykek/AppleMusic-Formats-Extension/assets/67633271/25e62cd6-22a3-4768-851a-a32a2bb8014b)
 
 
