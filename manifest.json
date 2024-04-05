@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "AppleMusic Formats",
     "description": "An extension for displaying formats of Apple Music albums and music-videos.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "icons": {
         "16": "logo/16.png",
         "48": "logo/48.png",
