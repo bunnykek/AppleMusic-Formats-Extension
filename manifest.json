@@ -9,7 +9,8 @@
         "128": "logo/128.png"
     },
     "host_permissions": [
-        "https://music.apple.com/*/album/*"
+        "https://music.apple.com/*/album/*",
+        "https://music.apple.com/*/music-video/*"
     ],
     "content_scripts": [
         {
@@ -17,7 +18,8 @@
                 "content.js"
             ],
             "matches": [
-                "https://music.apple.com/*/album/*"
+                "https://music.apple.com/*/album/*",
+                "https://music.apple.com/*/music-video/*"
             ]
         }
     ]
